@@ -55,7 +55,8 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 10px 1rem;
+  /* 上 右 下 左 */
+  padding: 35px 1rem 15px 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
