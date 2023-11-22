@@ -310,9 +310,9 @@
    display: flex;
  }
  
- /* .context_overview {
-   
- } */
+ .context_overview {
+   width: 95%;
+ }
  
  .banner .banner-table {
    padding: 0;
